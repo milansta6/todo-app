@@ -1,7 +1,4 @@
 add a new player
-add a new member
-Buy a camera
-make soup
-make pasta
-Clean the code
-Master Python!
+nije u reduBuy plantsmake soup
+ne damMaster Python!
+add
