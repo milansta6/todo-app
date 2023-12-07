@@ -4,3 +4,4 @@ Buy a camera
 make soup
 make pasta
 Clean the code
+Master Python!
